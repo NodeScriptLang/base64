@@ -16,6 +16,7 @@
         ],
         "rootDir": "src",
         "outDir": "out",
+        "useDefineForClassFields": false,
     },
     "include": [
         "src"
